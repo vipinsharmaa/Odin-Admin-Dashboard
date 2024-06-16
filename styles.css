@@ -46,7 +46,7 @@ select {
     height: 100%;
     display: grid;
     grid-template-columns: 1fr 4fr;
-    grid-template-rows: min(10px, 1fr) 3fr 2fr 1fr;
+    grid-template-rows: 80px 3fr 2fr 1fr;
     grid-template-areas: "header header"
         "sidebar main"
         "sidebar main"
